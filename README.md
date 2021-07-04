@@ -47,9 +47,10 @@ To execute this analysis, a Python script was created to help automate the tally
     ![Screenshot](https://github.com/aseo67/election-analysis/blob/main/Resources/Screenshot_get%20county%20candidate%20names.png)
 3. If any formatting/wording would like to be updated for the export of results (.txt file), updates can be made to the following code as needed. Formatting of all the results are located within the f-strings written in this code. 
     
-    ![Screenshot](https://github.com/aseo67/election-analysis/blob/main/Resources/Screenshot_total%20votes.png)
-    ![Screenshot](https://github.com/aseo67/election-analysis/blob/main/Resources/Screenshot_county%20votes.png)
-    ![Screenshot](https://github.com/aseo67/election-analysis/blob/main/Resources/Screenshot_largest%20county.png)
-    ![Screenshot](https://github.com/aseo67/election-analysis/blob/main/Resources/Screenshot_winning%20votes.png)
+    ![Screenshot: Total Votes](https://github.com/aseo67/election-analysis/blob/main/Resources/Screenshot_total%20votes.png)
+    ![Screenshot: Votes by County](https://github.com/aseo67/election-analysis/blob/main/Resources/Screenshot_county%20votes.png)
+    ![Screenshot: Largest County Turnout](https://github.com/aseo67/election-analysis/blob/main/Resources/Screenshot_largest%20county.png)
+    ![Screenshot: Vote by Candidate](https://github.com/aseo67/election-analysis/blob/main/Resources/Screenshot_candidate%20votes.png)
+    ![Screenshot: Winning Candidate](https://github.com/aseo67/election-analysis/blob/main/Resources/Screenshot_winning%20votes.png)
 
 

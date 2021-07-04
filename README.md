@@ -23,7 +23,7 @@ The analysis of the election shows that:
 - Results by county were as follows:
     - Jefferson county contributed **10.5%** of the vote, **38,855** votes total. 
     - Denver county contributed **82.8%** of the vote, **306,055** votes total. 
-    - Arapahoe county contributed **6.75%** of the vote, **24,801** votes total. 
+    - Arapahoe county contributed **6.7%** of the vote, **24,801** votes total. 
 - **Denver** county had the largest number of votes.
 - The candidates were:
     - Charles Casper Stockham
